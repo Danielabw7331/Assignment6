@@ -4,3 +4,10 @@ author: Daniel Wilson
 date: 31/Oct/2025
 output: html_document
 ---
+\
+Vargas Soto J. S., Beirne C., Whitworth A., Cruz Diaz J. C., Flatt E., Pillco-Huarcaya R., Olson E. R., Azofeifa A., Saborío-R G., Salom-Pérez R., Espinoza-Muñoz D., Hay L., Whittaker L., Roldán C., Bedoya-Arrieta R., Broadbent E. N., & Molnár P. K. (2021). Human disturbance and shifts in vertebrate community composition in a biodiversity hotspot. Conservation Biology. 36(2), e13813. https://doi.org/10.1111/cobi.13813  
+\
+**Introduction**\
+This paper by Vergas Soto et al. (2021) examines how land use and human activities affect terrestrial vertebrates on the Osa-Golfito region of Costa Rica. This area, specifically the Osa Peninsula, houses many species that are of concern from a conservation standpoint including the jaguar and Baird’s tapir. The paper aimed to observe the distribution and co-occurrence of mammals and ground-birds in relation to human land management practices like land protection and development. The study also aimed to include a variety of species in their analyses to better represent the effects that land management has on the vertebrate ecosystem. \
+\
+**Methods**\
