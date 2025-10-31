@@ -1,0 +1,6 @@
+---
+title: "Assignment 6 - Reproducability"
+author: Daniel Wilson
+date: 31/Oct/2025
+output: html_document
+---
