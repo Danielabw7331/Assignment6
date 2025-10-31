@@ -17,7 +17,7 @@ Using the photos collected by the camera stations, the authors identified all of
 \
 Figure 1.\
 ```{r, echo=FALSE, out.width="100%"}
-knitr::include_graphics("C:/Users/s1358734/Downloads/CostaRicaSite.webp")
+knitr::include_graphics("C:/Users/s1358734/Downloads/Assignment6/CostaRicaSite.webp")
 ```
 \
 Figure 1. (top left) location of the Osa Peninsula in the context of Central America and Costa Rica. (bottom left) satellite imagery of the Osa Peninsula showing the high proportion of forested land in the region. (right) black dots representing the location of the camera trap stations and coloured based on the protection status. Dark green, national parks; light green, forest reserves; teal, protected wetlands; yellow, wildlife refuges; and grey, unprotected lands.  
